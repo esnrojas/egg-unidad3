@@ -1,6 +1,6 @@
 Funcion vjornada<-V_jornada(nombre_t Por Valor)
-	Definir ndia,festivo,t_dia,vjornada Como Caracter
-	Definir cont,vdiurno,vnoct,feriado,f_hdiurno,f_noct Como Real
+	Definir ndia,festivo,t_dia Como Caracter
+	Definir cont,vdiurno,vnoct,feriado,f_hdiurno,f_noct,vjornada Como Real
 	Definir dia,nhoras Como Entero	
 	nhoras=0
 	cont=0
